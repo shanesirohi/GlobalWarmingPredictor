@@ -1,0 +1,6 @@
+First you need to have python installed in your device
+Now after installing, make sure your python is added to device's path, If you do not understand this simple visit https://realpython.com/add-python-to-path/
+Now after that, open the python file in your code editor
+Now open the terminal and go to your code folder
+Now type " pip install PyQt5 matplotlib "
+Done, Now have fun testing our beta program ^_^
